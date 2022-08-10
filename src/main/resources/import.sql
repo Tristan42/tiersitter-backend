@@ -1,0 +1,2 @@
+-- INSERT INTO Region (cityName) VALUES ('Berlin')
+-- INSERT INTO Person (username, password, region) VALUES ('Peter', 'Lustig', 1)
